@@ -11,10 +11,10 @@ Here is the help for my COMMANDS."""
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: IDK
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: IDK"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Lazy Princess is an open source project. 
-- Source - href=https://t.me/Syrus_143_hpy>Damm Hai To Lelo</a>"  
+- Sandy is an Advance Movie Req Bot. 
+- Source Code - <a href=https://t.me/Syrus_143_hpy>Damm Hai To Lelo</a>"  
 
-<b>Owner:</b>
+<b>My Lobe😘:</b>
 - <a href=https://t.me/Syrus_143_hpy>亗 𝕊𝗔𝗡𝗗𝗬 |⚡|</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
