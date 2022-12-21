@@ -3,19 +3,20 @@ class script(object):
 Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how super-fast i can drive your Database channel \n\nAre you ready for Long Drive Baby...❤"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 Here is the help for my COMMANDS."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ OWNER: <a href=https://t.me/Shree121121>亗 𝕊𝗛𝗥𝗘𝗘 |⚡|</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: <b>Pyrogram</b>
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: <b>Python</b>
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <b>MongoDB</b>
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: <b>Prvt</b>
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: <b>idk</b>"""
-    SOURCE_TXT = """<b>NOTE:</b>
-- Sandy is an Advance Movie Req Bot. 
-- Source Code - <a href=https://t.me/Syrus_143_hpy>Damm Hai To Lelo</a>"  
+    ABOUT_TXT = """✯ ᴍʏ ɴᴀᴍᴇ: {}
+✯ ᴏᴡɴᴇʀ: <a href=https://t.me/Shree121121>sʜʀᴇᴇ×ʀɪᴛɪᴋ</a>
+✯ ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/syrus_143_hpy</a>亗 𝕊𝗔𝗡𝗗𝗬 |⚡|</a>
+✯ ʟɪʙʀᴀʀʏ: ᴘʏʀᴏɢʀᴀᴍ
+✯ ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ
+✯ ᴅᴀᴛᴀʙᴀsᴇ: ᴍᴏɴɢᴏᴅʙ
+✯ ʙᴏᴛ sᴇʀᴠᴇʀ: ᴘʀᴠᴛ
+✯ ʙᴜɪʟᴅ sᴛᴀᴛᴜs: ɪᴅᴋ"""
+    SOURCE_TXT = """<b>ɴᴏᴛᴇ:</b>
+- sᴀɴᴅʏ ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ ᴍᴏᴠɪᴇs ʀᴇǫ ʙᴏᴛ. 
+- sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href=https://t.me/Syrus_143_hpy>ᴅᴀᴍᴍ ʜᴀɪ ᴛᴏ ʟᴇʟᴏ</a>"  
 
-<b>My Lobe😘:</b>
-- <a href=https://t.me/Syrus_143_hpy>亗 𝕊𝗔𝗡𝗗𝗬 |⚡|</a>"""
+<b>ᴍʏ ʟᴏʙᴇ😘:</b> <a href=https://t.me/Syrus_143_hpy>亗 𝕊𝗔𝗡𝗗𝗬 |⚡|</a>"""
+
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and LazyPriness will respond whenever that keyword hits the message
