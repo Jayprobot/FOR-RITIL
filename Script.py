@@ -4,12 +4,12 @@ Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how su
     HELP_TXT = """𝙷𝙴𝚈 {}
 Here is the help for my COMMANDS."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Syrus_143_hpy>亗 𝕊𝗔𝗡𝗗𝗬 |⚡|</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: IDK
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: IDK
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: IDK
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: IDK
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: IDK"""
+✯ OWNER: <a href=https://t.me/Shree121121>亗 𝕊𝗛𝗥𝗘𝗘 |⚡|</a>
+✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: <b>Pyrogram</b>
+✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: <b>Python</b>
+✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <b>MongoDB</b>
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: <b>Prvt</b>
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: <b>idk</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Sandy is an Advance Movie Req Bot. 
 - Source Code - <a href=https://t.me/Syrus_143_hpy>Damm Hai To Lelo</a>"  
@@ -40,7 +40,8 @@ Here is the help for my COMMANDS."""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/LazyDeveloper)</code>
+<code>[Button Text](buttonurl:https://t.me/Shree121121)</code>
+
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
