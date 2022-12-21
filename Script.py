@@ -5,7 +5,7 @@ Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how su
 Here is the help for my COMMANDS."""
     ABOUT_TXT = """✯ ᴍʏ ɴᴀᴍᴇ: {}
 ✯ ᴏᴡɴᴇʀ: <a href=https://t.me/Shree121121>sʜʀᴇᴇ×ʀɪᴛɪᴋ</a>
-✯ ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/syrus_143_hpy</a>亗 𝕊𝗔𝗡𝗗𝗬 |⚡|</a>
+✯ ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/syrus_143_hpy>亗 𝕊𝗔𝗡𝗗𝗬 |⚡|</a>
 ✯ ʟɪʙʀᴀʀʏ: ᴘʏʀᴏɢʀᴀᴍ
 ✯ ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ
 ✯ ᴅᴀᴛᴀʙᴀsᴇ: ᴍᴏɴɢᴏᴅʙ
